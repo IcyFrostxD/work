@@ -13,7 +13,10 @@ But the main point of these issues is a computer logical</b>
 <li>php</li>
 <li>Marked up language (HTML,CSS)</li>
 <li>Java (10% of acknowledge)</li>
-<li>Javascript (None)</li><br>
+<li>Javascript (None)</li>
 <h2>Backend Progession</h2>
 <li>phpMYAdmin</li>
 <li>MYSQL (SMSS)</li>
+<h2>Future</h2>
+<li>Oracle</li>
+<li>CMD</li>
