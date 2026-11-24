@@ -14,7 +14,7 @@ But the main point of these issues is a computer logical</b>
 <li>Marked up language (HTML,CSS)</li>
 <li>Java (10% of acknowledge)</li>
 <li>Javascript (None)</li>
-<h2>Backend Progession</h2>
+<h2>Backend Progression</h2>
 <li>phpMYAdmin</li>
 <li>MYSQL (SMSS)</li>
 <h2>Future</h2>
